@@ -39,3 +39,8 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 | Marking as Favorite | Listing After Marking |
 | ----- | --------|
 | ![](assets/landmark3.png) | ![](assets/landmark4.png) |
+
+
+### Project 3:  Gradient Badge with Vector Drawing APIs 
+
+![](assets/badge.png)
