@@ -16,7 +16,7 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ### Game Screen
 
-![](assets/bullseye1.png =500x200)
+![](assets/bullseye1.png)
 
 ### Playing
 
@@ -28,18 +28,14 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ## Project 2: Landmark
 
-### Landmark Listing (All)
+### Landmark Listing
 
-![](assets/landmark1.png)
-
-### Landmark Listing (Favorites only)
-
-![](assets/landmark2.png)
+| All | Favorites Only |
+| ----- | --------|
+| ![](assets/landmark1.png) | ![](assets/landmark2.png) |
 
 ### Single Landmark (Marking as favorite)
 
-![](assets/landmark3.png)
-
-### Listing After Marking Favorite
-
-![](assets/landmark4.png)
+| Marking as Favorite | Listing After Marking |
+| ----- | --------|
+| ![](assets/landmark3.png) | ![](assets/landmark4.png) |
