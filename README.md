@@ -43,4 +43,4 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ### Project 3:  Gradient Badge with Vector Drawing APIs 
 
-![](assets/badge.png)
+<img src="assets/badge.png" alt="badge" height="500px">
