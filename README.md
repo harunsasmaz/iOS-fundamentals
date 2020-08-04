@@ -16,15 +16,13 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ### Game Screen
 
-![](assets/bullseye1.png)
-
-### Playing
-
-![](assets/bullseye2.png)
+| Sliding | Hitting |
+| ----- | --------|
+| ![](assets/bullseye1.png) | ![](assets/bullseye2.png) |
 
 ### About Page
 
-![](assets/bullseye3.png)
+<img src="assets/bullseye3.png" alt="badge" width="600px">
 
 ## Project 2: Landmark
 
@@ -32,15 +30,15 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 | All | Favorites Only |
 | ----- | --------|
-| ![](assets/landmark1.png) | ![](assets/landmark2.png) |
+| <img src="assets/landmark1.png" alt="badge" height="500px"> | <img src="assets/landmark2.png" alt="badge" height="500px"> |
 
 ### Single Landmark (Marking as favorite)
 
 | Marking as Favorite | Listing After Marking |
 | ----- | --------|
-| ![](assets/landmark3.png) | ![](assets/landmark4.png) |
+| <img src="assets/landmark3.png" alt="badge" height="500px"> | <img src="assets/landmark4.png" alt="badge" height="500px"> |
 
 
 ### Project 3:  Gradient Badge with Vector Drawing APIs 
 
-![](assets/badge.png)
+<img src="assets/badge.png" alt="badge" height="500px">
