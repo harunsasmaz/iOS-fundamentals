@@ -22,7 +22,7 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ### About Page
 
-![](assets/bullseye3.png)
+<img src="assets/bullseye3.png" alt="badge" width="600px">
 
 ## Project 2: Landmark
 
