@@ -16,7 +16,7 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ### Game Screen
 
-![](assets/bullseye1.png)
+![](assets/bullseye1.png =500x200)
 
 ### Playing
 
