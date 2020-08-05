@@ -47,5 +47,5 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 ### Project 4: #Project 2 + #Project 3 with Profile Page
 
-<img src="assets/ezgif.com-optimize.gif" alt="final"  height="500px">
+<img src="assets/landmarkfinal.gif" alt="final"  height="500px">
 
