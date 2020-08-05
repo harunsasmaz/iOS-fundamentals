@@ -39,11 +39,13 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 | <img src="assets/landmark3.png" alt="badge" height="500px"> | <img src="assets/landmark4.png" alt="badge" height="500px"> |
 
 
-### Project 3:  Gradient Badge with Vector Drawing APIs 
+### Project 3:  Drawing and Animation
 
-<img src="assets/badge.png" alt="badge" height="500px">
+| Gradient Badge with Vector Drawing APIs | Graph Animations |
+| ----- | --------|
+| <img src="assets/badge.png" alt="badge" height="500px"> | <img src="assets/hiking-vid.gif" alt="hiking"  height="500px"> |
 
-### Project 4: Graph Animations
+### Project 4: #Project 2 + #Project 3 with Profile Page
 
-<img src="assets/hiking-vid.gif" alt="hiking"  height="500px"/>
+<img src="assets/ezgif.com-optimize.gif" alt="final"  height="500px">
 
