@@ -26,7 +26,9 @@ struct HikeDetail: View {
     ]
     
     var body: some View {
-        VStack {
+                
+        return VStack {
+            
             HikeGraph(hike: hike, path: dataToShow)
                 .frame(height: 200)
             

@@ -46,7 +46,7 @@ struct HikeView: View {
                         .scaleEffect(showDetail ? 1.5 : 1)
                         .padding()
                 }
-            }
+            }.padding(.bottom, 10)
 
             if showDetail {
                 HikeDetail(hike: hike)

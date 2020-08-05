@@ -52,18 +52,18 @@ struct HikeGraph: View {
                         range: data[index][keyPath: self.path],
                         overallRange: overallRange)
                     .colorMultiply(self.color)
-                    .transition(.slide)
                     .animation(.ripple(index: index))
                 }
                 .offset(x: 0, y: proxy.size.height * heightRatio)
             }
         }
     }
+    
 }
 
 struct HikeGraph_Previews: PreviewProvider {
     static var previews: some View {
-        Group {
+        List {
             HikeGraph(hike: hikeData[0], path: \.elevation)
                 .frame(height: 200)
             HikeGraph(hike: hikeData[0], path: \.heartRate)
