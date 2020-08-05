@@ -32,7 +32,7 @@ struct ProfileSummary: View {
             VStack(alignment: .leading) {
                 Text("Completed Badges")
                     .font(.headline)
-                ScrollView {
+                ScrollView{
                     HStack {
                         HikeBadge(name: "First Hike")
                         
@@ -44,14 +44,14 @@ struct ProfileSummary: View {
                     }
                 }
                 .frame(height: 140)
+                .padding(.bottom, -10)
             }
             
-            VStack(alignment: .leading) {
                 Text("Recent Hikes")
                     .font(.headline)
             
                 HikeView(hike: hikeData[0])
-            }
+                .padding()
         }
     }
 }
