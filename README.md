@@ -53,7 +53,7 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 | ----- | --------|
 | <img src="assets/badge.png" alt="badge" height="500px"> | <img src="assets/hiking-vid.gif" alt="hiking"  height="500px"> |
 
-### Project 4: #Project 2 + #Project 3 with Profile Page
+### Project 4: Landmark Final
 
 <img src="assets/landmarkfinal.gif" alt="final"  height="500px">
 
