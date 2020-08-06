@@ -12,11 +12,11 @@ XCode and Swift
 
 ## Table of Contents
 
-- [Bull's Eye](#sub-heading)
-- [Landmark](#sub-heading-1)
-- [Drawing and Animations](#sub-heading-2)
-- [Landmark Final](#sub-heading-3)
-- [Login and Profile Views](#sub-heading-4)
+- [Bull's Eye](#project-1-bulls-eye)
+- [Landmark](#project-2-landmark)
+- [Drawing and Animations](#project-3--drawing-and-animation)
+- [Landmark Final](#project-4-landmark-final)
+- [Login and Profile Views](#project-5-login-and-profile-views)
 
 ### Project 1: Bull's Eye
 
