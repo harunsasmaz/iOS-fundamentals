@@ -17,6 +17,7 @@ XCode and Swift
 - [Drawing and Animations](#project-3--drawing-and-animation)
 - [Landmark Final](#project-4-landmark-final)
 - [Login and Profile Views](#project-5-login-and-profile-views)
+- [Authentication App with Firebase and Firestore](#project-6-authentication-app-with-firebase-and-firestore)
 
 ### Project 1: Bull's Eye
 
