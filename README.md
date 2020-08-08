@@ -63,3 +63,9 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 | ----- | -------- | -------- |
 | <img src="assets/login.png" alt="login" height="500px"> | <img src="assets/experience.png" alt="experience"  height="500px"> | <img src="assets/education.png" alt="experience"  height="500px"> |
 
+### Project 6: Authentication App with Firebase and Firestore
+
+* Note: <code>AVKit</code>  is used to display video in the background.
+
+<img src="assets/authapp.gif" alt="auth"  height="500px">
+
