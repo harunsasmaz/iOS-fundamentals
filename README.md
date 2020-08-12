@@ -75,4 +75,4 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 * Note: Game also contains sounds, however they are not heard in the gif.
 
-<img src="assets/cardgame.gif" alt="cardgame"  height="500px">
+<img src="assets/cardgame.gif" alt="cardgame"  width="600px">
