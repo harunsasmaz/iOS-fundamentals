@@ -18,6 +18,7 @@ XCode and Swift
 - [Landmark Final](#project-4-landmark-final)
 - [Login and Profile Views](#project-5-login-and-profile-views)
 - [Authentication App with Firebase and Firestore](#project-6-authentication-app-with-firebase-and-firestore)
+- [Card Game](#project-7-card-game)
 
 ### Project 1: Bull's Eye
 
@@ -70,3 +71,8 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 
 <img src="assets/authapp.gif" alt="auth"  height="500px">
 
+### Project 7: Card Game
+
+* Note: Game also contains sounds, however they are not heard in the gif.
+
+<img src="assets/cardgame.gif" alt="cardgame"  height="500px">
