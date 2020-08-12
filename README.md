@@ -19,6 +19,7 @@ XCode and Swift
 - [Login and Profile Views](#project-5-login-and-profile-views)
 - [Authentication App with Firebase and Firestore](#project-6-authentication-app-with-firebase-and-firestore)
 - [Card Game](#project-7-card-game)
+- [Slots Game](#project-8-slots-game)
 
 ### Project 1: Bull's Eye
 
@@ -76,3 +77,10 @@ A type of "Hot and Cold" number guessing game in only landscape mode, created wi
 * Note: Game also contains sounds, however they are not heard in the gif.
 
 <img src="assets/cardgame.gif" alt="cardgame"  width="600px">
+
+### Project 8: Slots Game
+
+*Spin button costs 25, gets 50, and Feeling lucky button costs 100, gets the double of the current credits
+
+<img src="assets/slotsapp.gif" alt="slots"  height="500px">
+
